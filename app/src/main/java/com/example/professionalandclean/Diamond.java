@@ -1,6 +1,5 @@
 package com.example.professionalandclean;
 
-public abstract class Shape {
-    int x,y;
+public class Diamond extends Shape{
 
 }
